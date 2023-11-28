@@ -4,11 +4,16 @@
 
 ## Planning & Inspiration
 
+### Design
+
+[Link for design](<https://www.figma.com/file/2LG9pgucHyoWNjyh851IiI/Weather-App-%7C-Template-(Community)?node-id=302%3A914&mode=dev>)
+
 ### API
 
 [API for check weather](https://www.visualcrossing.com/)
 <br />
 <br />
+
 [API for take code of country](https://restcountries.com/)
 
 ## Tech Stack
