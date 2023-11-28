@@ -1,6 +1,6 @@
-# Individual Portfolio
+# Weather app
 
-# About My Portfolio Project
+# About My Weather app
 
 ## Planning & Inspiration
 
