@@ -4,7 +4,10 @@
 
 ## Planning & Inspiration
 
-In Progress...
+### API
+
+[API for check weather](https://www.visualcrossing.com/)
+[API for take code of country](https://restcountries.com/)
 
 ## Tech Stack
 
