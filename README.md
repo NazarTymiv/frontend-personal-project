@@ -36,7 +36,7 @@ Axios I will use for make my requests to api more shortly and easier
 
 ### Online hosted Portfolio
 
-In progress...
+https://weather-app-nazar.netlify.app/
 
 ### Portfolio GitHub Repo
 
